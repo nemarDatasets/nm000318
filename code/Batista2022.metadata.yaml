@@ -1,0 +1,148 @@
+_dataset:
+  class: Batista2022
+  code: Batista2022
+  doi: 10.5281/zenodo.7664068
+  interval:
+  - 0
+  - 5
+  n_subjects: 20
+  paradigm: imagery
+acquisition:
+  cap_manufacturer: Brain Products GmbH
+  cap_model: actiCAP
+  channel_types:
+    ecg: 1
+    eeg: 32
+    misc: 4
+    resp: 1
+  electrode_type: active
+  hardware: LiveAmp 32 (Brain Products GmbH)
+  line_freq: 50.0
+  montage: standard_1020
+  sampling_rate: 500.0
+  sensor_type: active Ag/AgCl
+  sensors:
+  - Fp1
+  - Fz
+  - F3
+  - F7
+  - FT9
+  - FC5
+  - FC1
+  - C3
+  - T7
+  - TP9
+  - CP5
+  - CP1
+  - Pz
+  - P3
+  - P7
+  - O1
+  - Oz
+  - O2
+  - P4
+  - P8
+  - TP10
+  - CP6
+  - CP2
+  - Cz
+  - C4
+  - T8
+  - FT10
+  - FC6
+  - FC2
+  - F4
+  - F8
+  - Fp2
+  software: BrainVision Recorder
+bci_application:
+  applications:
+  - motor rehabilitation
+  - BCI training
+  environment: lab
+  online_feedback: true
+cross_validation:
+  evaluation_type:
+  - within_subject
+data_structure:
+  n_blocks: 5
+  trials_context: 'One lab session per subject with up to five imagery runs (one per condition: MI, MIMO, MIMOHP, MIMOVR,
+    MIMOVRHP; the motor-execution ME control is excluded). Trials are cue-locked to the left/right-hand marker with a 5 s
+    imagery/feedback window.'
+documentation:
+  country: PT
+  data_url: https://zenodo.org/records/7664069
+  description: Motor-imagery EEG plus PPG, respiration, ECG and accelerometry from 20 healthy volunteers performing cued left/right-hand
+    motor imagery of a rowing task during VR/haptics BCI training.
+  doi: 10.5281/zenodo.7664068
+  institution: Instituto Superior Tecnico, Universidade de Lisboa
+  investigators:
+  - Diogo Batista
+  - Gustavo Caetano
+  - Mathis Fleury
+  - Patricia Figueiredo
+  - Athanasios Vourvopoulos
+  keywords:
+  - motor imagery
+  - BCI
+  - brain-computer interface
+  - EEG
+  - virtual reality
+  - haptics
+  - neurorehabilitation
+  license: CC-BY-4.0
+  publication_year: 2022
+  repository: Zenodo
+experiment:
+  class_labels:
+  - left_hand
+  - right_hand
+  events:
+    left_hand: 7
+    right_hand: 8
+  feedback_type: visual
+  instructions: Imagine moving the left or right paddle (bimanual rowing) following the directional cue.
+  mode: online
+  n_classes: 2
+  paradigm: imagery
+  stimulus_modalities:
+  - visual
+  - tactile
+  stimulus_type: visual
+  study_design: Within-subject, randomized-order cue-based left- vs right-hand motor imagery of a bimanual rowing task, compared
+    across Graz and NeuRow virtual-reality conditions with optional haptic and head-mounted-display feedback, plus a motor-execution
+    control.
+  synchronicity: cue-based
+  trial_duration: 5.0
+file_format: BrainVision
+paradigm_specific:
+  detected_paradigm: motor_imagery
+  imagery_duration_s: 5.0
+  imagery_tasks:
+  - left_hand
+  - right_hand
+participants:
+  age_mean: 24.79
+  age_std: 3.54
+  health_status: healthy
+  n_subjects: 20
+  species: homo sapiens
+preprocessing:
+  data_state: raw
+runs_per_session: 5
+sessions_per_subject: 1
+signal_processing:
+  frequency_bands:
+    beta:
+    - 12.0
+    - 30.0
+    mu:
+    - 8.0
+    - 12.0
+tags:
+  modality:
+  - motor
+  pathology:
+  - healthy
+  type:
+  - Motor Imagery
