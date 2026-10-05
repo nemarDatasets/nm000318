@@ -1,1 +1,1995 @@
-../.git/annex/objects/Gz/7Q/SHA256E-s68531--bafd9db8540b02945f7d91b1e46a6774609c4de88abcf168a9443fc7e7d106fb.json/SHA256E-s68531--bafd9db8540b02945f7d91b1e46a6774609c4de88abcf168a9443fc7e7d106fb.json
+{
+ "dataset": "nm000318",
+ "moabb_class": "Batista2022",
+ "moabb_version_used": "v1.7.1-11-g9c6b1cc",
+ "retrieved": "2026-10-05",
+ "retrieved_by": "moabb.datasets.Batista2022.data_path()",
+ "upstream_cache_root": "/voyager/ceph/groups/sdp190/bpinto/moabb-nemar/mne_data/Batista2022/MNE-batista2022-data",
+ "license": "CC-BY-4.0",
+ "doi": "10.5281/zenodo.7664068",
+ "naming": "upstream_filenames_restored",
+ "n_files": 330,
+ "total_bytes": 4202120087,
+ "files": [
+  {
+   "file": "sub-01/ses-lab1/task/MI/sub-01_ses-lab1_task-grazMI.eeg",
+   "bytes": 39824000,
+   "sha256": "706fcfad641909cf8be103514126ea8d53bd9958f81eba3113adf9459a21cac5",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MI/sub-01_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7241,
+   "sha256": "40f2dcf3dbb20113ad69dcf8ef3db2b27353f824ce98dd4d42f1ff444bae74da",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MI/sub-01_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8003,
+   "sha256": "b5f3c4fd438590558f43293418b08e75d6e862f537e2947342100f0656d9fd95",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMO/sub-01_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40283040,
+   "sha256": "c3033d7e30c14bf895fb2a28aa39733683d41a29c8200e1af4cc3b136210ae08",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMO/sub-01_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7249,
+   "sha256": "4383b6020f79af0396f78c1ffef2aefe6c96c2e98ba975dce95e944919a2b981",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMO/sub-01_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8085,
+   "sha256": "5f4743612c83f207efb79ef4d7ea202a5db4122b51310929793c2f8b771e31cc",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOHP/sub-01_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 38604960,
+   "sha256": "ad13b29ab5f9d23eedef81f537431cfee23a151928ff748a42c9c77c20ad8ebc",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOHP/sub-01_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7253,
+   "sha256": "8e961bdde82667221f629931918486ae34e4c6cb4fdd7f879be89198243b64e0",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOHP/sub-01_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8009,
+   "sha256": "715d7463b92462a50322189b26d3ac580127e65a9662dde42abd12936887146a",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOHPVR/sub-01_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 39068560,
+   "sha256": "49150f7f94479fadbebbd6a58a1a4da12a16cb984921ed29f044399df2d78dd7",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOHPVR/sub-01_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7257,
+   "sha256": "5950d4e5d657fda3ff04d78f2e83413adf2db79241a7bdfb90292cb3561e68ab",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOHPVR/sub-01_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8011,
+   "sha256": "4bc6de65022c69f4d1d15d708eff29a83e5d70573684a56366791a80dc2501db",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOVR/sub-01_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 38343520,
+   "sha256": "adbfcc5924496e7213f8aaf81757977dbc53e6dcbbb0a197537885b1ca727cd7",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOVR/sub-01_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7253,
+   "sha256": "72b53fc4b8ecdbea4de0c78d50b002e99804529f05f4b3362f940a4a3fd14982",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/ses-lab1/task/MIMOVR/sub-01_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8009,
+   "sha256": "77e4de6bee8198799e89e5e9e38afd310801dce19f06eda703fc17c30de6de28",
+   "subject": "1"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MI/sub-02_ses-lab1_task-grazMI.eeg",
+   "bytes": 38691600,
+   "sha256": "93dbbec5cfe999b48d3e140b79e513250f09f566c713abfe90c2e80ca53e8cb0",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MI/sub-02_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7241,
+   "sha256": "e2b56b6b56b5cb140a38d5fac569386a3e16bde729a725b5e2cd236e6c6b63ad",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MI/sub-02_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8003,
+   "sha256": "f8c98159761e0d86a8ed87f2b9af7913f7d343df7784bb3f39cb591f0bd6d873",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMO/sub-02_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 42829040,
+   "sha256": "597ba1dfbc00c37765f613f61079d392c4e25c8e388ebcdfdedc7f4375f110f8",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMO/sub-02_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7249,
+   "sha256": "c003666cd2442e45296a7b280c5a572ad2a2803187a6ea50dc4f72e47b96a9e0",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMO/sub-02_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8024,
+   "sha256": "402a91bd727da1693bf822c4c80a04847f689cab4c7ca30b21762c731c53823c",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOHP/sub-02_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40748160,
+   "sha256": "1ac023fead4613b0930c98e55a1497eb2c4e631a960ff33ea579d1009229205e",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOHP/sub-02_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7253,
+   "sha256": "86e789470e0a799f8ffa8d14441773cef5045c0f40761c27e276f0afbf827dca",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOHP/sub-02_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8014,
+   "sha256": "1a732324b71bbd8efc40426b36608d0cfa79475babcfe630d72e5cec2dee55ad",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOHPVR/sub-02_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 44526880,
+   "sha256": "2951866fb2b3c05ed4aaa4b3b1d8d826e2e9b5be1b11f9543b83a90fb8baa222",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOHPVR/sub-02_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7281,
+   "sha256": "8a7fa44987ad7d4621cda4a048abdf89242b091d0cdfbe3602bce6b1f5d9330c",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOHPVR/sub-02_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8312,
+   "sha256": "9203ab31f486d24d59b61b7e66176fefd0cb10e8967da8a5ef32f6fef38d92b5",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOVR/sub-02_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 39314800,
+   "sha256": "9869ecdce1720affbeb302a302f5b45b88a657db6af32766a62c5e7890f91ebc",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOVR/sub-02_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7277,
+   "sha256": "7e3e8b8e4084fdd61eaedbff99dd76668b28726a13aef08c944bbd32ce076a94",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/ses-lab1/task/MIMOVR/sub-02_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8009,
+   "sha256": "0e950154196efb5e9d33e5ebaad1747c3d26b0be59705a5e3986bf61b62157c4",
+   "subject": "2"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MI/sub-03_ses-lab1_task-grazMI.eeg",
+   "bytes": 41143360,
+   "sha256": "5befe5b7f96f90eda475d25cc0e0168ff6d9a60cdbdd3bd6827a0d6e0ab244a2",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MI/sub-03_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7241,
+   "sha256": "4d398e4f9048f0ded5a374aabe67e7fab46cef4764256fa28dd177abaa71ac27",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MI/sub-03_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8080,
+   "sha256": "a0ad828dbe56ee59e15216833b88ebf83d9cb8b696aa0276ddadea3a15f91284",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMO/sub-03_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 38896800,
+   "sha256": "ae8a54fcab6269be1760d3488f56e1f08173d3351360f98f90c4932b48ddfaae",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMO/sub-03_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7249,
+   "sha256": "f22ad774e1a621c1cf71ac733b1f02bb9f26e8efeba807decf742298d2c85401",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMO/sub-03_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8007,
+   "sha256": "d6c5708d0b95d0c649409f9f4963da0425844a110eb5b22ba0e32f4596c7cdd6",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOHP/sub-03_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40580960,
+   "sha256": "f6be9809d2db04f3e402e11e4c213a477d7cfcecb188650ce5f6f048c8e87641",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOHP/sub-03_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7253,
+   "sha256": "92ff5fc1c9f29031aba6be85d1c118a0b1caba527c54cf806f27af5a21642cdc",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOHP/sub-03_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8008,
+   "sha256": "bfd775cad58b869bbd4d34fb193fd9b28b1ed7b4e8ea0c79d4017743726521b4",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOHPVR/sub-03_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 39076160,
+   "sha256": "d8a768478224b8bd96d1c5ecff7e43a3d8744abc932437c9d4282f3b8bef8145",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOHPVR/sub-03_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7257,
+   "sha256": "f93a0988dc768996fa39714ff8a283600ed36f4550d19d4b52a4c80195b921c4",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOHPVR/sub-03_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8016,
+   "sha256": "676ecd554d92f3fde58f0258c042317717ce6e35c2eb8012fe437a8e9b4efc5f",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOVR/sub-03_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 39178000,
+   "sha256": "cc68ec8c5698b00d0e0d311dff82db6e8fdf3f3c74f75f3d38d11efabe3ba302",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOVR/sub-03_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7277,
+   "sha256": "940bd0b02aa272db644c8d26f638f66e7cc934b598e8ed24a11e59cb7dbf6b28",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/ses-lab1/task/MIMOVR/sub-03_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8009,
+   "sha256": "b7471d33a8140beaaa7317ccd336eb4fb14dd1f0740526d4b0e9e42afc822d44",
+   "subject": "3"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MI/sub-04_ses-lab1_task-grazMI.eeg",
+   "bytes": 39808800,
+   "sha256": "9a5ac4ba77891c5e5272c6cf1b0d47d957fe5930dd054925937cd67261774262",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MI/sub-04_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7513,
+   "sha256": "2642b0763bb8c33162f9b5ca59d7550a513dfc285c4a872b440718d48e0b9708",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MI/sub-04_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8003,
+   "sha256": "ddb0db938bf24203ca0b13f55fab780523e3cb8db6864c5d0b5866e0398b5cfc",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMO/sub-04_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 39383200,
+   "sha256": "b602e596c313fb831e4b72801aa0ab860531e53a21c06020b3b19a0ff5bddb76",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMO/sub-04_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7521,
+   "sha256": "403486dcce7ef995ccb30f94c28c11f3d1fcb8288f5ce06bc3530734d82a494a",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMO/sub-04_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8007,
+   "sha256": "c64ed3fb8589e8c5f1545d2d2e589062ca991128b24689567a4c1afb1587080b",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOHP/sub-04_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 39658320,
+   "sha256": "6b06faa883bd132c4bfff528bbff8b644ee0e4ca2c7a5c455761eb5ce39e20fe",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOHP/sub-04_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7525,
+   "sha256": "38df1e58fb7ef537ee4b33093781dc0dec928218dec81afdb2f40572cbb853ba",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOHP/sub-04_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8014,
+   "sha256": "0627bdaed856a3c6aab081a46e615aa818448a70fb0656294101b45bdbb55c4d",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOHPVR/sub-04_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 39650720,
+   "sha256": "4c44cf01e5b2929f1d74d4050f8541aabadda721c6379b762dce1eaff356a8e5",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOHPVR/sub-04_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7553,
+   "sha256": "6d5f57a12082f0e960166afbf8100f2eb6c6d1ef70ba6be74b6010206ed64c52",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOHPVR/sub-04_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8077,
+   "sha256": "5e9009d7bb49a002b2dc6bec8b35417812b50df366bd9aa35cdd3c807c54da31",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOVR/sub-04_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40321040,
+   "sha256": "c1ec36765fd4e4728d8499c492a1536794fb3d8491a1f6a07a72e2022da45138",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOVR/sub-04_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7525,
+   "sha256": "99d73ba3981a5ac81f8b5cfc75e0d65ee2f7cba8a163f2cc1b08a8eb4e0eb680",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/ses-lab1/task/MIMOVR/sub-04_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8014,
+   "sha256": "e6f3df6fbda809aaf36324ed5f8a63da8f3eb59814391b547c72c7f11e1d5107",
+   "subject": "4"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MI/sub-05_ses-lab1_task-grazMI.eeg",
+   "bytes": 38749360,
+   "sha256": "6922d9e51e2f55a813205f82ac3a0856fc51f37772d582472de1aafa7d3cdc4c",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MI/sub-05_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7241,
+   "sha256": "17a2857c66208be21fc0987816ddc8496ddaad2eafc04aa483be2fce6ae00ad6",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MI/sub-05_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8002,
+   "sha256": "8a3b4f7409e2427b38419ab29d5d484e37b96ba109d9a6f209bda1e22a382d7b",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMO/sub-05_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 39340640,
+   "sha256": "3a7cb1be93cdadd8cd8c7ba40941828dcaf2e5b93116a12a95b6d0050c366c70",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMO/sub-05_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7249,
+   "sha256": "89952274391ffe21d4c055633f9cc4011e7086926bfbaee53752ba419e8a8f9d",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMO/sub-05_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8007,
+   "sha256": "6de26e4a0656013016e6c5091fbb78b07852ecb11c13c07f60b2750fb13c4634",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOHP/sub-05_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 44677360,
+   "sha256": "232e039e2956db800f5ab08fe98a4ff77603c73802a6d2f9628c68cf2fba795a",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOHP/sub-05_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7253,
+   "sha256": "a06ff36196f5118bcd2e8706d842841cd31184b1337257b622ca8262eaaf1d49",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOHP/sub-05_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8112,
+   "sha256": "2e5de9623c0e385254e650e5aa4a0a8e83de68b78d77732e46d211a2d9daa7d4",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOHPVR/sub-05_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 39068560,
+   "sha256": "001070df668b18de03323785dd0405e945d1ac15d6bca68d57506b1d909d9486",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOHPVR/sub-05_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7257,
+   "sha256": "a2f6fda66aa0d05cd81f96eb7a0371fd4843ab027ee58c914d8fdbd2df9452bd",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOHPVR/sub-05_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8046,
+   "sha256": "4ebaf103393a1b5563c23ae382d9ec794dd03e434869f42c8069578cd8b4ff01",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOVR/sub-05_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 39153680,
+   "sha256": "a4fe83716c37741bc91f43a77dc606e315fc4cb7eb36c47f9ae403ea364ca23a",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOVR/sub-05_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7253,
+   "sha256": "c6f3e59267460bbe2ae78ae0c6b41983eec82e44ef1cf8e667978526b5e081c8",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/ses-lab1/task/MIMOVR/sub-05_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8009,
+   "sha256": "eae9df39cd0685b6f94eb3f0938de29649ea14fdde93f1525349f1196913bb85",
+   "subject": "5"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MI/sub-06_ses-lab1_task-grazMI.eeg",
+   "bytes": 45973920,
+   "sha256": "191d9b3e7315194ab5485bbbd8fe912d17ff97a3b376808a177ee170e7c44cd5",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MI/sub-06_ses-lab1_task-grazMI.vhdr",
+   "bytes": 6618,
+   "sha256": "686f67c63f1c13c80f801e608645a51e5b429c4ebc67926ff21483dd9b57b337",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MI/sub-06_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8046,
+   "sha256": "09c14161c6fbeb181d5b772c5c9444f2678befa5b0a8741f74390243ed694d2f",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMO/sub-06_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 41669280,
+   "sha256": "0105a8136043470ee624d48af51c62c7d235323bca42e1a972117477a280e573",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMO/sub-06_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 6626,
+   "sha256": "f23ccfe878076efd5063b843ebc038a6b8e5301d5d61935b728b7b7f08952373",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMO/sub-06_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8026,
+   "sha256": "6d4cd22b593062043d7896cb880be04f1978d4e61384d341dd5773f74eb6da4f",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOHP/sub-06_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 41739200,
+   "sha256": "c056c856ed6d7acf1f72917ee788b25e8ffeda21ea5c6a0226a20910dc9de186",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOHP/sub-06_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 6606,
+   "sha256": "ff580845022ea35e4b83ac9985ac0ccb2da92b7b16b7eb1cb4159082ccbc5c1b",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOHP/sub-06_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8023,
+   "sha256": "ed5182c632561236ef638253ca6c2f9bacf2e6d3c6a8eed32b22a5d1f05f7e92",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOHPVR/sub-06_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 41441280,
+   "sha256": "8a1edebfcd96828ffb0b72c576829a0d0635e4c72221cfb5f11b5ae3292f8380",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOHPVR/sub-06_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 6658,
+   "sha256": "ceb87b1e0ab1e503cbf8e32cd08427b91dde7a435d4b38b97c587b284d05de19",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOHPVR/sub-06_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8028,
+   "sha256": "ecedded4f3ab2f871bc2416b2e0ed0776254a91bdb3846788700954ca862e54f",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOVR/sub-06_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40536880,
+   "sha256": "8e5c2e09550cd20ff4cd3fccfbefa0f42af2a99f0a5aa13555144b99ef63d5b2",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOVR/sub-06_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 6846,
+   "sha256": "7097cb820006953481289ba7942efb37a0217ae21c4a77872dab1b6a06db3d37",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/ses-lab1/task/MIMOVR/sub-06_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8023,
+   "sha256": "27395d512b4867d2509184a8a24d8111fd6b3416e9f4f00c60099c7ba03a9c33",
+   "subject": "6"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/ME/sub-07_ses-lab1_task-grazME.eeg",
+   "bytes": 24006880,
+   "sha256": "f9d204d3423036d9486e9fd0c5b442f72ef8bcf8fff0790ad48f4b93570e29d3",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/ME/sub-07_ses-lab1_task-grazME.vhdr",
+   "bytes": 7471,
+   "sha256": "b5c2787ea0c22a768b29fe198b73d8560cdb97ca8f3e425db7bd387fd050e0c0",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/ME/sub-07_ses-lab1_task-grazME.vmrk",
+   "bytes": 4745,
+   "sha256": "ad9502be4669352072598223fd5688820b7a4b6b55a060be7f94a4ce954d399c",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MI/sub-07_ses-lab1_task-grazMI.eeg",
+   "bytes": 42266640,
+   "sha256": "b97a1528192955c31535a6fa8de767ceac8c7b03da0e22a1cd1660010e46fc8a",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MI/sub-07_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7463,
+   "sha256": "d1b76db21e847242705579905e70673ca79cd6c4a43e34dcf79eb7c9bebb04d5",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MI/sub-07_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8029,
+   "sha256": "764e400eb418eed3b5678f8939dfdd4d7511cc80fecfa7f3679b1e20526fe0b7",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMO/sub-07_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40465440,
+   "sha256": "02052e0c554bafe98b7afb65e216cae7f5d5fd6cafda910d6646f8433ca2d64e",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMO/sub-07_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7271,
+   "sha256": "02160ab50a11a65d3568da04c57288298d9076d2aa9fe3bc55ec1772f6857d5e",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMO/sub-07_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8021,
+   "sha256": "7df1e085829913a70f9b58284008664d20ab5a5e86010ea1e67ca6761b977707",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOHP/sub-07_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40503440,
+   "sha256": "4577842be7927d1e35ad4a38fb3e91e6f97ff698f65066f90a8cda60fb6f4362",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOHP/sub-07_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7259,
+   "sha256": "37e3e2827258d87b3a8a871b50f144e7f59e52e09c2e4594eb4fc7cf58f1ce99",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOHP/sub-07_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8023,
+   "sha256": "e60f7ae4976ca8f2c536f882be3e805dda7d751593a0e4b928259a6e12494205",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOHPVR/sub-07_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 41524880,
+   "sha256": "6386e2dfac4425e08c5cc5b5913afa76f4017352ddf9e6f83a5d145acbf60b8d",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOHPVR/sub-07_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7463,
+   "sha256": "188bed55dd72843d1c933b3ec561777a0b7108dccb3a1d50fef8dc5470c7ced9",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOHPVR/sub-07_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8034,
+   "sha256": "584ab3db21522bd8ac1dce0564bd88449b85583a76f1b6155305c1326b4869b4",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOVR/sub-07_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40366640,
+   "sha256": "8457e20c2dc94e41ddf3ed9be9cabda08fc32160f9858187cd112e930ab7cd45",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOVR/sub-07_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7475,
+   "sha256": "35d333de71c8bbdfb42c7ecf3e393be0e95fb164496847131a7603f1508d9315",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/ses-lab1/task/MIMOVR/sub-07_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8021,
+   "sha256": "855c3e2876eb523590e1689541393378de1499ced06d0eeb06a443efebd80e80",
+   "subject": "7"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/ME/sub-08_ses-lab1_task-grazME.eeg",
+   "bytes": 18998480,
+   "sha256": "72781cead49a1ea9034c7010dc257361e8f1d4640f664307be96dc9bee566db2",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/ME/sub-08_ses-lab1_task-grazME.vhdr",
+   "bytes": 7343,
+   "sha256": "33d79defc8b57372b81c91b1683cf7288671a03b19f2e7555edaa7463f9bb579",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/ME/sub-08_ses-lab1_task-grazME.vmrk",
+   "bytes": 3658,
+   "sha256": "9a1a8bd9542b4013fc398b50a7360af47fce81e60152870f58b43e257382efb0",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MI/sub-08_ses-lab1_task-grazMI.eeg",
+   "bytes": 39086800,
+   "sha256": "7ce4ce196aa5b9b1902fc28ace4c109865314c2f63e593b2270f30185b475d61",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MI/sub-08_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7447,
+   "sha256": "482d5da7dc94a9e640946341095ee64f10f13f314d4a91f22a9e957cd8da8b59",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MI/sub-08_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8008,
+   "sha256": "f209f480cd57a6e4c95198096dd6dbec05063f70672330f64856d247d39686d0",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMO/sub-08_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40128000,
+   "sha256": "78ce04af8fa265c0f30c6d1d5b52d3a95c607d3ec108c509d026da082cfdf012",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMO/sub-08_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7479,
+   "sha256": "d28216508630155311f3cefee2e4608716f5569de66904e25936bbf9ac8aadc2",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMO/sub-08_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8391,
+   "sha256": "7b213da2a8d9e043ec25c86d3038d6a56a19d05259b8113b9101adcc83973b49",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOHP/sub-08_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40401600,
+   "sha256": "997eaaa1cd610619916078b27923449bc3ea3a3c63663ed20d9f55856e0f1900",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOHP/sub-08_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7267,
+   "sha256": "c7aad9e654a6f58fcb2b621c5423ffcd2644d17aa3e90749dbf3544891380370",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOHP/sub-08_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8023,
+   "sha256": "46b7cb9c79e1cc3141203d4d5a7cb2481931e99a49cecf9de130efb0d921a7e2",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOHPVR/sub-08_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40164480,
+   "sha256": "829208537566329bcc605c11de2b3beecdf8cc44168f9cd536274e845f96c171",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOHPVR/sub-08_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7463,
+   "sha256": "ea25cbb7ea1c4d686798ea4d99a8afa707eaa902bc1c0c06bfae2177fe9c858c",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOHPVR/sub-08_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8020,
+   "sha256": "260191f2cd9ac0e2687c43519e22245e3ab2937f641ef4ec3820d5f744649de4",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOVR/sub-08_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 46259680,
+   "sha256": "512f5cbc76cd7cd279db3b66aefc96c8b4d14c4286f617c567a9897bad521d51",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOVR/sub-08_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7459,
+   "sha256": "f8cecbfa9796a7f8a70a29561ede66c8dafe93e2c6f585fabcad7d27abd1f7f2",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/ses-lab1/task/MIMOVR/sub-08_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8060,
+   "sha256": "2af635372a674abf19065a25d449a3d3497326aa22b8348e33f6045a3fed998c",
+   "subject": "8"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/ME/sub-09_ses-lab1_task-grazME.eeg",
+   "bytes": 18861680,
+   "sha256": "69cb2669f25ea0c5da9f9d0d5601332d22a530d5d778af86dc5f80f7baf16a4c",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/ME/sub-09_ses-lab1_task-grazME.vhdr",
+   "bytes": 7511,
+   "sha256": "7238b72b6d4bd0a7f1f236500cae662d874e9af8a999c8a91066cf21f80f2c0f",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/ME/sub-09_ses-lab1_task-grazME.vmrk",
+   "bytes": 3658,
+   "sha256": "90e9d5291dd0fb80152cab48159bc7d68a4ecc59b1f3f59bdb3dd6256b1d6e2f",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MI/sub-09_ses-lab1_task-grazMI.eeg",
+   "bytes": 39188640,
+   "sha256": "0712b6aa99c32a21d112a494c29d6c746967d53f83931b83ee39cbbf22a5a7cb",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MI/sub-09_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7535,
+   "sha256": "95a6a730929dd9da4ff1768ca7b1df429f51af4f85a6bd38a09aa12e7a54f04a",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MI/sub-09_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8008,
+   "sha256": "b1489383c70837aaea322619964d02251ec99be81d2a06425cbe2fabbd060a2d",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMO/sub-09_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40799840,
+   "sha256": "ecaa28bfa69da5fa85112130f3a5f414f02deefd123b4309668b7140023e3978",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMO/sub-09_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7271,
+   "sha256": "a26a99bcb5e2cf074e56148fc738761e95b7e4ccfce9d1c79611283892d707a2",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMO/sub-09_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8021,
+   "sha256": "7b648cdd77e1a2e3538743c420af39c911de3649f796731f89e133e3de9158a3",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOHP/sub-09_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40609840,
+   "sha256": "e531e429150149da66c1d8022c8a85256d9a369962b760a93a54609124dde597",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOHP/sub-09_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 6633,
+   "sha256": "7d9f42f9c0ec5057e9e0d5c9fcb6ce80c46a8c02a19e60edd3e82de2fa1c801b",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOHP/sub-09_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8088,
+   "sha256": "02a75b170698a114b44f724a3b35e2785e83fe4af2520fadb35f66894825bc55",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOHPVR/sub-09_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40030720,
+   "sha256": "187d7fcd98ea7039d9b4528842c1bc40cf06cd02576d59e1593bdb91eddfdb45",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOHPVR/sub-09_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7527,
+   "sha256": "0115a3950c7b74709fe3108e064a09bfa8bf9b372449462610931558d7af4c57",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOHPVR/sub-09_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8023,
+   "sha256": "42b5e27744d7bbd1faec92fd9160480eef3d7ba42c612397d6324ae6b1156f82",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOVR/sub-09_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40243520,
+   "sha256": "eef97c955a7402a4fc1a1d742d3a84c3090fa7544e10eb78ce884af5b56f8978",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOVR/sub-09_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7467,
+   "sha256": "858384eeb09af36e607dfdad40baef3ba588fd1a393536ac156811558cdbe5d0",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/ses-lab1/task/MIMOVR/sub-09_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8022,
+   "sha256": "1bda32abe2edc7d2c9876074488e35229ac5659aa4d1a3928acfe1ffca75b738",
+   "subject": "9"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/ME/sub-12_ses-lab1_task-grazME.eeg",
+   "bytes": 18569840,
+   "sha256": "f0cd2c2f44400a5593fd9252f86b21e18e289919c2c57e6eda243b385551c28b",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/ME/sub-12_ses-lab1_task-grazME.vhdr",
+   "bytes": 6602,
+   "sha256": "8052e484e5e769cbca02302a95b06fd026318ca8285442eb9a9fdedf5d68cb15",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/ME/sub-12_ses-lab1_task-grazME.vmrk",
+   "bytes": 3656,
+   "sha256": "73dc2623aee8df19a44a69726092bc73c707263a7a567a650864e247e9fb2589",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MI/sub-12_ses-lab1_task-grazMI.eeg",
+   "bytes": 39244880,
+   "sha256": "9442a84c1dbf34b05ca42d820c55bd5bf911dbc521fc59fe9136c6e68dcc9bcc",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MI/sub-12_ses-lab1_task-grazMI.vhdr",
+   "bytes": 6602,
+   "sha256": "61183d4e6fc338d2e6009a7f98d045575e40f1e6d3893babcd2ef219649fad38",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MI/sub-12_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8009,
+   "sha256": "62c8c256a9c36d50a466c801a27272e637aad02d9d9f2bfe5c0dfdd4c24572b1",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMO/sub-12_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 41451920,
+   "sha256": "267f29bf60e2270328ba3fe8f641e718691a1ce08ccb11646d154879fc14de22",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMO/sub-12_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 6634,
+   "sha256": "5ca62b6bfb65684c55e139ac646d964f75c9dd21c0c19fb20cd5ed1a26f5bf3c",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMO/sub-12_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8026,
+   "sha256": "2b54a3b6f1fdeb3102b6358496ee873e488f2ebdfb35439d498169cd51fd2e2b",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOHP/sub-12_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 42213440,
+   "sha256": "4ee8b307c0132f5fe37cf0d8f8900e54efe3822d61062fcd6f27b1054f862678",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOHP/sub-12_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 6614,
+   "sha256": "2098c8fa4c0e5faf6093da8e80669aef986c487e1b911ad8a541ff3f3d96de45",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOHP/sub-12_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8035,
+   "sha256": "80328b9bc3b54aae9ff43029c814b0df171ff3e8d90b16a6ba5d4a3233d49660",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOHPVR/sub-12_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40118880,
+   "sha256": "3d60afe7c8433d0f63d5b026c25c5cfaac9652bab9bd0d20d5654e50edc7dd03",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOHPVR/sub-12_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 6618,
+   "sha256": "957e8788a91160b3679d73cfbac0ace6ce453212eb3deb4ee42f457a99bc0871",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOHPVR/sub-12_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8023,
+   "sha256": "77a2da3738d2248e655494a5b0f5dc8449833315f872d960cb36e551024a47ee",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOVR/sub-12_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 39966880,
+   "sha256": "b7b3511a9b92270ff617fa21754b3ca60598d9b1535fb6de75c233fbdac5a578",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOVR/sub-12_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 6638,
+   "sha256": "dc9e05ddfa499e519505b8d6b8532ce35599b85027870414e96ace9073736fc4",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/ses-lab1/task/MIMOVR/sub-12_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8021,
+   "sha256": "4c3c445e00c8622a0d67a4cb7d7bec1f37189ee451e948496a83229a44817a30",
+   "subject": "12"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/ME/sub-13_ses-lab1_task-grazME.eeg",
+   "bytes": 18452800,
+   "sha256": "4c5098bd5756134a1e940c8c8621a904d3e86de93dd8cd0acbb1e5da88a9dd9c",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/ME/sub-13_ses-lab1_task-grazME.vhdr",
+   "bytes": 6618,
+   "sha256": "b977b101a0595ffdab5f3243a61af27cb17dbd4a4f26a8187b6178c77fb40ad3",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/ME/sub-13_ses-lab1_task-grazME.vmrk",
+   "bytes": 3656,
+   "sha256": "2edfce14a0441020cc0f8de9b067552b1d7fce378f161c8e48de930d83d8f56e",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MI/sub-13_ses-lab1_task-grazMI.eeg",
+   "bytes": 39228160,
+   "sha256": "d730726be900cead2dfe7bb68436980013b0cc998b1b55776d5845d8c88df878",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MI/sub-13_ses-lab1_task-grazMI.vhdr",
+   "bytes": 6618,
+   "sha256": "ba5658b096ad7f5563ac484d8cd5535f926a5089c47ce15783b4a0a7db8d33c6",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MI/sub-13_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8073,
+   "sha256": "6e49c56bc202c6a5a1b8747116e728b2d71ea745efd977b056c94f871f8b54f9",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMO/sub-13_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 39848320,
+   "sha256": "eac71b85bad6ecb1c24e4e485c758b1de0682d5366dbcba7dae208fd585ef16b",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMO/sub-13_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 6626,
+   "sha256": "1517d66234aae26fa06bfcca5dd057ab0efa1a563cafb6262a98937fb4e382a6",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMO/sub-13_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8019,
+   "sha256": "2ebe2419094760a37bc294b50b3e3ecb6977f27b0b15a068790d69ffe25a938d",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMOHP/sub-13_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40383360,
+   "sha256": "7da8557e021382203fe7b993f9aa192f72a5451d716789dedf997bc6b699bd55",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMOHP/sub-13_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 6654,
+   "sha256": "8a723f0d07dfe4120c9c06dd078b7a276b94c075790b74daa3dfde7676048be3",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMOHP/sub-13_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8023,
+   "sha256": "e2d313b3907bd62f2421d760cbcfe8e431d1e7e77c9d6695858a8e6d2d581059",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMOVR/sub-13_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40146240,
+   "sha256": "e8b5b4e76ad54899e778e8b4ae39da1f6e75ace9246f34c550c4c04ea19570b2",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMOVR/sub-13_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 6630,
+   "sha256": "f513bf56ec0cc1e953277f4ce327a2b5d203e87b64ce30953d64f22d886aafde",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/ses-lab1/task/MIMOVR/sub-13_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8022,
+   "sha256": "7dbee5dba520d79abbbec53d33b406f48c86431aaa59043d191f17cd2742bc3e",
+   "subject": "13"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/ME/sub-14_ses-lab1_task-grazME.eeg",
+   "bytes": 18758320,
+   "sha256": "3cf9eba0552baefcb4eb390480c68f4dd103f364222f99bd974c277885c6d52e",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/ME/sub-14_ses-lab1_task-grazME.vhdr",
+   "bytes": 6594,
+   "sha256": "5e512adb14b29f03ebc658d47187739e185c66eae6e75203dac3abc966b86189",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/ME/sub-14_ses-lab1_task-grazME.vmrk",
+   "bytes": 3657,
+   "sha256": "a74ece21e0a175345e869e2c3684f0a58ebd9b9d8ba0f02bb2773500c88507c0",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MI/sub-14_ses-lab1_task-grazMI.eeg",
+   "bytes": 39285920,
+   "sha256": "6aa892a8eae7575cb5aa4627daaad90d8dd5ac51948429ce113ec6a236b2c73a",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MI/sub-14_ses-lab1_task-grazMI.vhdr",
+   "bytes": 6594,
+   "sha256": "d8db093a60b91664a42bb2daa49367c3622041897ad292faa0c338187a274bab",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MI/sub-14_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8008,
+   "sha256": "3bf7014bc478d4a23ef491110eeb0a7ecace44dcad4ff4c56241e628e4db842a",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMO/sub-14_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 41720960,
+   "sha256": "d492c19bf3f152c7217e69a8f0ba31bb1f6c24c7be3b3b714adc9fd5731baf00",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMO/sub-14_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 6626,
+   "sha256": "d1a00ee864b98dd652a6279bdb8c742cd8da7e43a340913f451f3f8972b0af31",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMO/sub-14_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8031,
+   "sha256": "0f42c117d06b3b2ad0125fdddb9f8f8e81b184475e439a7b55220ec86c07d7bb",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOHP/sub-14_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40342320,
+   "sha256": "752cea50a34306fdb1906e91a7b84e8b2b84c93572413f2869bca72ef392f86c",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOHP/sub-14_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 6606,
+   "sha256": "a1b362706b0e632990b22b91f4c6606ec938fc19e0d7468e4892746ac426ce2c",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOHP/sub-14_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8021,
+   "sha256": "77f5b65abf0a1c59bcaad923e400097c180d9c5dec6618bcc5359654d62b1587",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOHPVR/sub-14_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40202480,
+   "sha256": "2b87c07f5a36c60678e59dfe284e3d533a9522804440bbaafdfd6c88152f073f",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOHPVR/sub-14_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 6610,
+   "sha256": "99994ca49abe2ce6de457db9001ee56cdb7208fcc0461e8a4c5f02369daf4a3a",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOHPVR/sub-14_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8023,
+   "sha256": "c82b8a3dd8c3cc8b4fc87ce5f6ebc4bedaa0dd07b6855337015076d13e827a8a",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOVR/sub-14_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 41269520,
+   "sha256": "2324db97d9d2a39091b1b0dcacccbbd1a53dd015db087aa2ddc80b967a134984",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOVR/sub-14_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 6606,
+   "sha256": "8f6a20709816536a690b54a2b8e2b6e26551af31a09c9e19e74d524ea631b12b",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/ses-lab1/task/MIMOVR/sub-14_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8022,
+   "sha256": "0a5c6bfd6152558814a2bfff798c39f64b75fd496b7453f1a436862e3f700ed0",
+   "subject": "14"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/ME/sub-15_ses-lab1_task-grazME.eeg",
+   "bytes": 18603280,
+   "sha256": "539163ec7f0e897d68dbf96048b5f308d101960c5a1eb3f1d28f4ffad492b91b",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/ME/sub-15_ses-lab1_task-grazME.vhdr",
+   "bytes": 7495,
+   "sha256": "11786f26b58b0db77605e9734b9091915fa2a893e3e19eb6b98764ef48beb1b1",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/ME/sub-15_ses-lab1_task-grazME.vmrk",
+   "bytes": 3656,
+   "sha256": "f687e50239512feb9e4cff1ce6d4649066dda357b475a4f42961c2d4c399ec22",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MI/sub-15_ses-lab1_task-grazMI.eeg",
+   "bytes": 39088320,
+   "sha256": "46964ca07a8e663680e34a049ccb08c1feb36f063b5dba231ae024f81ab5e1bc",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MI/sub-15_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7511,
+   "sha256": "9eef6e6ee1f8c7b332f88915b597bacd4cbd4aa48de1ab760003c2f50b2947a1",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MI/sub-15_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8008,
+   "sha256": "6ef057ba48c717172a03f080894394e27152394eb0901f888a5cf5f005ada0a7",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMO/sub-15_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40137120,
+   "sha256": "05cae6dbbfbea3a5a8f7c03d18a8042920e07c86b7529eaa727d6f47d16b2b74",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMO/sub-15_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7543,
+   "sha256": "6172e9d9696fb17970ddd0f031944795a2bc84dcf075ceeeb2f481def02890bd",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMO/sub-15_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8021,
+   "sha256": "dcb44e9e16f4e2ee700321973491bf3723bbf6a69f62a3cffd5008e2b24edec4",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOHP/sub-15_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 41038480,
+   "sha256": "e7c76fa79d60618a260cf651128e494ab20925be7902fd42227dc949533b47d1",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOHP/sub-15_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7523,
+   "sha256": "3ef1f4db8a21c5f5aad8ef673c12ce9a20ebc7be298f29bc5b4d9ba803502edc",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOHP/sub-15_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8026,
+   "sha256": "526e80a301d8a7b4d54a693efef35f1026c841f075d27466589fdda9010b9755",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOHPVR/sub-15_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40077840,
+   "sha256": "5a63e6c01b5fe9ba5a0126e5678bceeeff5966e07c9e1028049a63931fd14298",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOHPVR/sub-15_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7511,
+   "sha256": "01b7ff77f04b156d0dc06afa693636af16183787e3675d9428e11b5fbefc3d54",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOHPVR/sub-15_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8088,
+   "sha256": "42b202c331bbfa934a0fd7573b989ceababae7420a79ba04894dc756d96aa424",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOVR/sub-15_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 39880240,
+   "sha256": "54de5e21adc8367891f1abb7b990bc261c41051aa46d8a227e3619f879d0a1d1",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOVR/sub-15_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7507,
+   "sha256": "61f49d6f31156c295287b656e6932c00348926d30c9e2f26e8588d3d17c01c21",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/ses-lab1/task/MIMOVR/sub-15_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8021,
+   "sha256": "391f2f746af4fc89105626bb8689be62ff65921ca878a7fd5dfe0df4a13eff4f",
+   "subject": "15"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/ME/sub-16_ses-lab1_task-grazME.eeg",
+   "bytes": 19001520,
+   "sha256": "67aea073251d2f8eb0ab87bb955742f5948146ead88d178446cb1260e0bda895",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/ME/sub-16_ses-lab1_task-grazME.vhdr",
+   "bytes": 7239,
+   "sha256": "f84a9aebecc80165dab55111191d7522517b64ba82e03b4801d159e009d03cfa",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/ME/sub-16_ses-lab1_task-grazME.vmrk",
+   "bytes": 3656,
+   "sha256": "4dbe95bd0fabcd0e63459cf85c3977af448896b9bf6b98d80c88ffef92844316",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MI/sub-16_ses-lab1_task-grazMI.eeg",
+   "bytes": 39209920,
+   "sha256": "69d5a1ee80e50a629aa3210ed26ff48fd29fb1c74d6a564cdb56187b059dd52d",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MI/sub-16_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7239,
+   "sha256": "aaf0f375ad9216487abc64bbb41f12a36297523863f0ac5e2d180fa90468598b",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MI/sub-16_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8008,
+   "sha256": "92a954e757f4932b72b29ddd4a72b8a1645a55bd849464f18ccb37151079a19c",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMO/sub-16_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40419840,
+   "sha256": "f7084a405760692cae2ef43aa5e22324821dfce3931dfdb28b91a951f671c57d",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMO/sub-16_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7271,
+   "sha256": "9e051b4bf6cd4e8bce3f97e6077b083fa6cba03607b6e74045c15968c729a97a",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMO/sub-16_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 7982,
+   "sha256": "f5d935ea6a20c68a14fc909ce11455d6c552f8eee44b7b9f1b2a3e43e56c94d4",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOHP/sub-16_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 38565440,
+   "sha256": "03ceb0164dffd6ba777e2f5510b24091cd69bb303e0c1fca968a019e2426a10c",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOHP/sub-16_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7251,
+   "sha256": "3f56f02acc4ea8fe79be69997b00b4502a1884d71d4531f25ab9cd47acbc22fa",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOHP/sub-16_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8007,
+   "sha256": "da40c75531142af9751a17aaaac192129a54edeb22aa3cc118b8c3016fe7907e",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOHPVR/sub-16_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40474560,
+   "sha256": "7ff6a6280bc7129cf66adb2d1069d974219bce993f2adba7b923d34728ed177a",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOHPVR/sub-16_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7255,
+   "sha256": "8c0514863c57da4ae156316c3e62783265fd18ccd9b21cce518d9cb2dcdc280a",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOHPVR/sub-16_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8023,
+   "sha256": "4f2b7a086c392fb9a7c4a1b7aeb24f46f7e95dd0db90402d81d7598885e2471d",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOVR/sub-16_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 39802720,
+   "sha256": "a99e86dc5a09912c587ef60744a955b6d222b2ef04020bf97b6fca795806eec3",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOVR/sub-16_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7251,
+   "sha256": "33f0a744a0a8d10ac16681a55275c03fb08466fa76195ad7813212821bb8d173",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/ses-lab1/task/MIMOVR/sub-16_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8021,
+   "sha256": "655f46fe9dccc14c485fa7fcadfaa95c406cac0dd717834b2383b23b180884f3",
+   "subject": "16"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/ME/sub-17_ses-lab1_task-grazME.eeg",
+   "bytes": 18819120,
+   "sha256": "b6658e1885e6f0a892f25718f95daa3ec679f264331e6d5c8afb463747b5ad28",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/ME/sub-17_ses-lab1_task-grazME.vhdr",
+   "bytes": 7287,
+   "sha256": "1ed7a2b55702d2425b697f9bb75a8f90eeb8b709ed3484fd4abb520e1d493ed3",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/ME/sub-17_ses-lab1_task-grazME.vmrk",
+   "bytes": 3657,
+   "sha256": "a28fb6ddea4d3c8db3bafa131aa7007eb39968b81afddcf0847aeb8a32952a24",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MI/sub-17_ses-lab1_task-grazMI.eeg",
+   "bytes": 39524560,
+   "sha256": "bc92bdec8e628a114ce209c275d3dc44ccde6b682dbf988d05303ecc87e0c0c5",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MI/sub-17_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7287,
+   "sha256": "2920a28c1d4c5961e16517357c56c31464fab362d0e959302c33ba0124458b7f",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MI/sub-17_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8008,
+   "sha256": "44cd365d5a53861f5d9c9d7122299f7c540cc07ab75d8ad46c670de5f4c06e10",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMO/sub-17_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40935120,
+   "sha256": "7203a2326a0f08ae5270637a18841dd61d967dbf9c9a8e5228d123c3694f49ef",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMO/sub-17_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7295,
+   "sha256": "54af61fdbfc48a6c828755002d84b51c65d89b620a85c33df7a07bd1a8ffa358",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMO/sub-17_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8019,
+   "sha256": "2e0a3ba68e67213c9405d7c99a72d4f2be57d1880ae841bef3aa5fc59679b8de",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOHP/sub-17_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 39998800,
+   "sha256": "292c079181c637499eabfe6dde7403953cbe8cef27556ee4a21df868b27f1aa5",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOHP/sub-17_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7299,
+   "sha256": "9d2936674a45a4cd81d21f2025904c64f6ecc8f6f7a49138e3e5469e14b1e0f0",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOHP/sub-17_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8021,
+   "sha256": "993e6e42863adc41fa6603a56493bc3ad171643d10e4b59c499035dc6deffa10",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOHPVR/sub-17_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40359040,
+   "sha256": "bf5068e0a266c795c5f5dbe89665239f8f5554ffcd79dce3b3bd6b503f39c893",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOHPVR/sub-17_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7303,
+   "sha256": "b217c5d1b34d6894072aa1abb5afc94034e05cc5cd93fd146ebcdd5f847ebf86",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOHPVR/sub-17_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8089,
+   "sha256": "845fde377a649670b4aaf6e4b3d49e570ea598f4adce5df9cf353ec113533d14",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOVR/sub-17_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40831760,
+   "sha256": "d5b7d8f64779eb181364382e0d5c063deca24da83046e9de09128c4394a14c91",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOVR/sub-17_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 6654,
+   "sha256": "e3decece3c943e895f237a648e271e01a2d29fc8afc701ab8b42329f3fd0ae11",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/ses-lab1/task/MIMOVR/sub-17_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8021,
+   "sha256": "c059f3b84e1c41b5698edc0784daa33472024fb59fc511e612c69f8bebb6093d",
+   "subject": "17"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/ME/sub-18_ses-lab1_task-grazME.eeg",
+   "bytes": 18422400,
+   "sha256": "cf39666355fc215befd43ef0dbc7b26c01540c069cc3c3eb4eb669bc523f6f22",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/ME/sub-18_ses-lab1_task-grazME.vhdr",
+   "bytes": 6594,
+   "sha256": "d3d9fa437bd6a379b515eec65507e71671dc20d2f581ba52f0271816e831887b",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/ME/sub-18_ses-lab1_task-grazME.vmrk",
+   "bytes": 3656,
+   "sha256": "73ba830c3588af3a664b687ee6ed58cd3506e16fd92dbbafa6e1c1f3a84c7af1",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MI/sub-18_ses-lab1_task-grazMI.eeg",
+   "bytes": 39056400,
+   "sha256": "0fb5cc584da3761d142082635ce9d9c78371381b01035f06ba85a036b8c53163",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MI/sub-18_ses-lab1_task-grazMI.vhdr",
+   "bytes": 6594,
+   "sha256": "45db21e9e14c42ce4002ff9b4c23dca84bcece2dbb6494e016cadd13a64a624f",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MI/sub-18_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8008,
+   "sha256": "169bcfb92a7e2f1b7d371c68e9f000a83cf5d00af0116f6f4c8450ed248f59de",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMO/sub-18_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 39764720,
+   "sha256": "fbd8fc5213cc49b8a62bc3f2eb89d72609b32ff2d668342c46535f2da63160ca",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMO/sub-18_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 6602,
+   "sha256": "ce8d6abf3d1f55c17785fec00dc096092d29e530a5956fe478c0f54ddaa5652c",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMO/sub-18_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8018,
+   "sha256": "3ddf0f5a93b4b96f602dee0736944aa0c240f6263d36c071a23cb397031b08cd",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOHP/sub-18_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40825680,
+   "sha256": "df5ffd0b2eef9dc75206b4f8c1dd3780dc4825a3ea60dca87ea65f1a573f16cb",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOHP/sub-18_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 6606,
+   "sha256": "d32c7e24c524b0d21e9bd07de052b0f74c3c97ee1b0c5d1660969e233f71e165",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOHP/sub-18_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8026,
+   "sha256": "de625eeadcfb9fd1f9a6f3f7d85c2946f38843eeb29ff6fbb59b93d038a85bbb",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOHPVR/sub-18_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 40211600,
+   "sha256": "7fb19f2e381271c2fd1f0112517cdc3a76bb93acf6cb129f978e7867017ed194",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOHPVR/sub-18_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 6610,
+   "sha256": "78328e0006cbaf332c7d6d2325f94824b4dc050c9e50dbc5132fdada6077ecdf",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOHPVR/sub-18_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8023,
+   "sha256": "40d07eb0308989f8d943b47e23a5b5c10b09afac564c106561c75974f37c0b0d",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOVR/sub-18_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40369680,
+   "sha256": "f985a3aec9fc5730f5a7d578dd4164a21eb5ead30fa635f50207307d03fa72c1",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOVR/sub-18_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 6606,
+   "sha256": "141a20c5db7bb2c88a8cb0dd561c4755d9d2e34a581d8c6f5cb8d5e8b69fc99d",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/ses-lab1/task/MIMOVR/sub-18_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8021,
+   "sha256": "44bcf50861656e05191cf71a2c7da4e997fd895082f3e0ea944d32884cdfa368",
+   "subject": "18"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/ME/sub-19_ses-lab1_task-grazME.eeg",
+   "bytes": 20018400,
+   "sha256": "49a0c8923232a3d43c20834e1abe9941fda6a97a71df42adba1816cdf241ae99",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/ME/sub-19_ses-lab1_task-grazME.vhdr",
+   "bytes": 7239,
+   "sha256": "1cba2b7cbb736685507fb547d0713f0367341049ee630517d026ca0ae24a9800",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/ME/sub-19_ses-lab1_task-grazME.vmrk",
+   "bytes": 3656,
+   "sha256": "1e4844c68b0e80fdb958344b5ae4c7fe8b175da85a63a5b46ab732e4feccadbd",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MI/sub-19_ses-lab1_task-grazMI.eeg",
+   "bytes": 39372560,
+   "sha256": "261c6e4ca9e024e200873ad7c03cadc1842877bca86b754a10974bc726675c01",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MI/sub-19_ses-lab1_task-grazMI.vhdr",
+   "bytes": 7239,
+   "sha256": "0bd1826d5351ab6ea1de152055428a8f590aefb01dda775ef215cdfd26ede60e",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MI/sub-19_ses-lab1_task-grazMI.vmrk",
+   "bytes": 8074,
+   "sha256": "44b488dfb58d0ac469e9a40001520a3f52d9f805fde275387eead8283a076195",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMO/sub-19_ses-lab1_task-neurowMIMO.eeg",
+   "bytes": 40494320,
+   "sha256": "3e85969f0c702ef92427e2d10a14f5d02a6107ad8f03350fb80603f7d1c9d048",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMO/sub-19_ses-lab1_task-neurowMIMO.vhdr",
+   "bytes": 7247,
+   "sha256": "91dd8bfbc96aa3d1aa8d223b5b88f476e488370eb80e69e976b0ccb0863b6b15",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMO/sub-19_ses-lab1_task-neurowMIMO.vmrk",
+   "bytes": 8085,
+   "sha256": "512443c4bb514f044e39d943173690f41bc272d7ab0135a24a5f03419aefa123",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOHP/sub-19_ses-lab1_task-neurowMIMOHP.eeg",
+   "bytes": 40903200,
+   "sha256": "ab83c1f7c998242a0f99ad0f5399cd9e4b6b8c8fa6b816ae809e4d71001c9fa9",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOHP/sub-19_ses-lab1_task-neurowMIMOHP.vhdr",
+   "bytes": 7275,
+   "sha256": "07fcba051b5310c373a8b77e4937e33fc479a97358dfd1fd6366e831d558088d",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOHP/sub-19_ses-lab1_task-neurowMIMOHP.vmrk",
+   "bytes": 8025,
+   "sha256": "4e814b4c4f7c15716b7f536f9c45f981040ffab3cee44348b65c65343056984b",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOHPVR/sub-19_ses-lab1_task-neurowMIMOVRHP.eeg",
+   "bytes": 42681600,
+   "sha256": "a9e8d388b911a872d56c1a385cce38e50cbbbf676923c5384127fb8e2d203f80",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOHPVR/sub-19_ses-lab1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7255,
+   "sha256": "6cbea5fa6a31a4df8e3ec28f5fb6f27ed76f14e03f28ea83d14164f68a7bf6dd",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOHPVR/sub-19_ses-lab1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 8025,
+   "sha256": "8b0dbc1b9a52ec4e7aa7a9b84285f7a1eb5d0ac3770d2aa40320651b923ee251",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOVR/sub-19_ses-lab1_task-neurowMIMOVR.eeg",
+   "bytes": 40108240,
+   "sha256": "18617b84628eb10d5f9f152d6ff650d7a41220af124079241382df3d9d2169a6",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOVR/sub-19_ses-lab1_task-neurowMIMOVR.vhdr",
+   "bytes": 7251,
+   "sha256": "a743ad29df302139b542720adf48af86a219e9d94a0cc5b0eb1c02c589a989fc",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/ses-lab1/task/MIMOVR/sub-19_ses-lab1_task-neurowMIMOVR.vmrk",
+   "bytes": 8021,
+   "sha256": "0110201d964f5788eedb237bf475a61bce9e165fb76069da9b60fcd4893be5bb",
+   "subject": "19"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MI/sub-01_ses-pilot1_task-grazMI.eeg",
+   "bytes": 40327120,
+   "sha256": "ba765570f6fdf244d6dd2b09d8a65cfa02477fac68d9d70f1fce7abb22d45f83",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MI/sub-01_ses-pilot1_task-grazMI.vhdr",
+   "bytes": 7269,
+   "sha256": "a1e36892c13ba69db447c6978632a38fd85c7c464e6df9c49aab5344a26e342f",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MI/sub-01_ses-pilot1_task-grazMI.vmrk",
+   "bytes": 6880,
+   "sha256": "22d181af84a6ddebffabb45a19f3249532557d605f713593cd5a51432c5036aa",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMO/sub-01_ses-pilot1_task-neurowMIMO.eeg",
+   "bytes": 44061760,
+   "sha256": "3f9500031331ceb93504fed8d3820045aa403104839aba8bd1d6517aaab02488",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMO/sub-01_ses-pilot1_task-neurowMIMO.vhdr",
+   "bytes": 7277,
+   "sha256": "9bf5b607f9512ce50a503992774f46aa49addb419ebefd502c45d95151a020e9",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMO/sub-01_ses-pilot1_task-neurowMIMO.vmrk",
+   "bytes": 6899,
+   "sha256": "b083d06ca9bbe08cf233cf7dcbccbeb3429f23395aa81f6b1d8257b3cb99c888",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOHP/sub-01_ses-pilot1_task-neurowMIMOHP.eeg",
+   "bytes": 41230000,
+   "sha256": "cdfa575172985ea37cf55d8020351b549c7c3b6e9f3c44a8f8d5433022c1126b",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOHP/sub-01_ses-pilot1_task-neurowMIMOHP.vhdr",
+   "bytes": 7281,
+   "sha256": "1d6b2f7b83fcc3901e5cc2cfd1dce04e85a222b9f77302b78ae123e97b063c34",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOHP/sub-01_ses-pilot1_task-neurowMIMOHP.vmrk",
+   "bytes": 6881,
+   "sha256": "4bb18e4be2579bc1c3e8a8fedb1902624ec5392dcae76dc563efc0db8430c9a8",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOHPVR/sub-01_ses-pilot1_task-neurowMIMOVRHP.eeg",
+   "bytes": 44954000,
+   "sha256": "7cdee0414aa9764ffbac00be577f74fc44d96cf72e9a376ef3baf227e3676a61",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOHPVR/sub-01_ses-pilot1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7285,
+   "sha256": "2168ca7e466bfe5f9ef090350763b05c550dec00c82a790651b759622d3a9453",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOHPVR/sub-01_ses-pilot1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 6898,
+   "sha256": "3bdc865f9c79118de303c0edea490decc2163d405d2d88d72fa106b40d406172",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOVR/sub-01_ses-pilot1_task-neurowMIMOVR.eeg",
+   "bytes": 38428640,
+   "sha256": "27eca7c6faf8b03bd98e0e0411d708a54ed3b4737c7a54693c849dbdb6f9a063",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOVR/sub-01_ses-pilot1_task-neurowMIMOVR.vhdr",
+   "bytes": 7281,
+   "sha256": "41872a7a1baaf72f921144fd553d28c0357c1b9f70114a8946246f4d39801496",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p01/ses-pilot1/task/MIMOVR/sub-01_ses-pilot1_task-neurowMIMOVR.vmrk",
+   "bytes": 6869,
+   "sha256": "e854383b01166129ec2982149751a363e3f0a92a42d3d9d53d9d1bc6e6af44d0",
+   "subject": "1"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MI/sub-02_ses-pilot1_task-grazMI.eeg",
+   "bytes": 39015360,
+   "sha256": "61667c2957959a5046701cab05a0e3d3de02ece9de5ba822471760b1b15c2f9c",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MI/sub-02_ses-pilot1_task-grazMI.vhdr",
+   "bytes": 6627,
+   "sha256": "fdfdca4724be8cb85690685a5e0a07982d1e31714635fb1334ab9b1f174370b6",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MI/sub-02_ses-pilot1_task-grazMI.vmrk",
+   "bytes": 6863,
+   "sha256": "f9d35dcbd0f9174459e0b081d914c1b5697d40cb5c7253d3b2eb89a87015da35",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMO/sub-02_ses-pilot1_task-neurowMIMO.eeg",
+   "bytes": 38183920,
+   "sha256": "6f709e33ee87294e9df7031c6080e078a1e0d760ad3a280cddcd7058e7cb60c3",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMO/sub-02_ses-pilot1_task-neurowMIMO.vhdr",
+   "bytes": 6631,
+   "sha256": "390ad79e024672ae2719be20bc79b3591167caf066403b42c471e3385a9e1e7a",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMO/sub-02_ses-pilot1_task-neurowMIMO.vmrk",
+   "bytes": 6857,
+   "sha256": "ba1817beb1e3da9b1d9894b315d814828c6e0f32c6c882c68f5106c5a3b0830f",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOHP/sub-02_ses-pilot1_task-neurowMIMOHP.eeg",
+   "bytes": 40489760,
+   "sha256": "7ee87d82a16b8794ba0148a2faf9459d9e4faa680afe7248df10813cac26e4f0",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOHP/sub-02_ses-pilot1_task-neurowMIMOHP.vhdr",
+   "bytes": 6639,
+   "sha256": "0b88e739b80b591c157ca67179f9bdbda77c86dc29e8059c700607c3db31e964",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOHP/sub-02_ses-pilot1_task-neurowMIMOHP.vmrk",
+   "bytes": 6880,
+   "sha256": "5c19b024a6ce85f4eb70f3462499c9d2215f9c10c4949554593f21243dd84f2a",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOHPVR/sub-02_ses-pilot1_task-neurowMIMOVRHP.eeg",
+   "bytes": 41100800,
+   "sha256": "7e470bb0ca9b6b8a979f6227bfedc5dd13d2706bcbe4b6ba7ae2c73df0b00bfd",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOHPVR/sub-02_ses-pilot1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 6643,
+   "sha256": "4e85dca5eacf558271e28ec81da3e4a1ee32bf757d61aefde339264b6b33580c",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOHPVR/sub-02_ses-pilot1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 6890,
+   "sha256": "625ec9fc5ce17519ca4b238454ab424ce2462a19e27125b84a90ef873183f7bf",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOVR/sub-02_ses-pilot1_task-neurowMIMOVR.eeg",
+   "bytes": 43031200,
+   "sha256": "c463dbf723f7fa3f33c49448a2c01ac695ea0a5747cb79b714e3436cf1cea690",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOVR/sub-02_ses-pilot1_task-neurowMIMOVR.vhdr",
+   "bytes": 6639,
+   "sha256": "1ea264e4f65f17c7b594c17ad588987dd7f81fac8422a80b6b33b086e5a33751",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p02/ses-pilot1/task/MIMOVR/sub-02_ses-pilot1_task-neurowMIMOVR.vmrk",
+   "bytes": 6900,
+   "sha256": "5c81347a82576cc495ba973b25c8dde035a451b06076c6a13cb590086b002f4b",
+   "subject": "2"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MI/sub-03_ses-pilot1_task-grazMI.eeg",
+   "bytes": 36147120,
+   "sha256": "352736fc6c5cb70b5c816ba33a704f9b81df829acb6ead5cbee374543cbbd5dd",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MI/sub-03_ses-pilot1_task-grazMI.vhdr",
+   "bytes": 7269,
+   "sha256": "a453b50876ca6c77c5addf7b54619926569d88a2f5901ed84b53b43856ff16d7",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MI/sub-03_ses-pilot1_task-grazMI.vmrk",
+   "bytes": 6855,
+   "sha256": "27c07d9dd4e38c336e86d89ffd0dacf4c8afa65999b66041641d451bd4672b33",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMO/sub-03_ses-pilot1_task-neurowMIMO.eeg",
+   "bytes": 37071280,
+   "sha256": "404c1fabc78b63c59343dd177f6461e00b86d2d0fb859215ec5e4917873759da",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMO/sub-03_ses-pilot1_task-neurowMIMO.vhdr",
+   "bytes": 7277,
+   "sha256": "197e85b5aeb2c8a8a1613c0f11a40cf967f97748a97d6f89a95f245fc1eb8cd4",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMO/sub-03_ses-pilot1_task-neurowMIMO.vmrk",
+   "bytes": 6927,
+   "sha256": "4f382c2931290025c6d390290ba8692a30e1feaf49504c8f2278c32a89c0d352",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOHP/sub-03_ses-pilot1_task-neurowMIMOHP.eeg",
+   "bytes": 36665440,
+   "sha256": "4b1970a169288d91d7819ab989fee24a3686a9a164fa15ddf60dbd046d4a016d",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOHP/sub-03_ses-pilot1_task-neurowMIMOHP.vhdr",
+   "bytes": 7287,
+   "sha256": "d76145165b597c36d4e4469636a2816fba0ea77629b939ade76802ab14094387",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOHP/sub-03_ses-pilot1_task-neurowMIMOHP.vmrk",
+   "bytes": 6935,
+   "sha256": "bf704fc146705edaadecc0589047bbb406a8a904a9c9175f17d05f005c53989b",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOHPVR/sub-03_ses-pilot1_task-neurowMIMOVRHP.eeg",
+   "bytes": 36264160,
+   "sha256": "0c76cd1b1de3a492edf227bd5ee1518003f03de0cafe55f010230fd84ac01127",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOHPVR/sub-03_ses-pilot1_task-neurowMIMOVRHP.vhdr",
+   "bytes": 7285,
+   "sha256": "ae59eb46386cd19c21961c0fb36cbdfac5debc9380fc26dbde10e22109d4ddbb",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOHPVR/sub-03_ses-pilot1_task-neurowMIMOVRHP.vmrk",
+   "bytes": 6845,
+   "sha256": "994878c37f955ff12f73ed7026eeee7c305da83f2ff0ee935476d3e6ba0f7d3e",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOVR/sub-03_ses-pilot1_task-neurowMIMOVR.eeg",
+   "bytes": 37157920,
+   "sha256": "b489a13b7d805feee6747367d2ff3048b5ef53a2a4f8eeb999e062efe748c664",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOVR/sub-03_ses-pilot1_task-neurowMIMOVR.vhdr",
+   "bytes": 7281,
+   "sha256": "87ef1dfd5993c847d41573bf32ffd4518dd289dda001e20758cdd386f665f84d",
+   "subject": "3"
+  },
+  {
+   "file": "sub-p03/ses-pilot1/task/MIMOVR/sub-03_ses-pilot1_task-neurowMIMOVR.vmrk",
+   "bytes": 6865,
+   "sha256": "749f4902ab06d27650ea2a6267ecb8f096e16b300ab769f26728f4dc6cd02ca8",
+   "subject": "3"
+  }
+ ]
+}
