@@ -1,5 +1,5 @@
 {
-    "Name": "Batista2022",
+    "Name": "Batista2022: Motor-imagery EEG during NeuRow VR/haptics BCI training",
     "BIDSVersion": "1.9.0",
     "HEDVersion": "8.4.0",
     "DatasetType": "derivative",
@@ -38,5 +38,8 @@
             "URL": "https://zenodo.org/records/7664069"
         }
     ],
-    "PublicationYear": 2022
+    "PublicationYear": 2022,
+    "EthicsApprovals": [
+        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+    ]
 }
