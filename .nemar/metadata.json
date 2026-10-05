@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Batista2022: Motor-imagery EEG during NeuRow VR/haptics BCI training",
-  "description": "EEG recordings from 20 healthy volunteers performing cued left- versus right-hand motor imagery of a bimanual rowing task during brain-computer interface training. The study compared Graz and NeuRow virtual-reality conditions with optional haptic and head-mounted-display feedback. Peripheral signals (ECG, respiration, PPG, accelerometry) were also recorded. This BIDS version was re-released via MOABB from the original Zenodo deposit.",
-  "methods_description": "32-channel EEG was recorded at 500 Hz with a Brain Products LiveAmp 32 and actiCAP active Ag/AgCl electrodes (10-20 montage), plus ECG, respiration and auxiliary channels. Each participant completed one session of up to five imagery runs (MI, MIMO, MIMOHP, MIMOVR, MIMOVRHP) with 5 s cue-based left/right-hand motor imagery trials and online feedback.",
+  "description": "EEG recordings from 20 healthy volunteers performing cued left- versus right-hand motor imagery of a bimanual rowing task during brain-computer interface training. Conditions combined Graz and NeuRow virtual-reality feedback with optional haptic and head-mounted-display feedback. Alongside 32-channel EEG, the dataset includes ECG, respiration, and auxiliary channels, and is intended for neurorehabilitation-oriented BCI research.",
+  "methods_description": "Data were recorded in a single lab session per subject using a Brain Products LiveAmp 32 with actiCAP active Ag/AgCl electrodes (32 EEG channels, 500 Hz) in BrainVision format. Each session had up to five imagery runs (MI, MIMO, MIMOHP, MIMOVR, MIMOVRHP), each with cue-locked 5 s left/right-hand motor imagery trials.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -99,5 +99,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "482ac56e9d3a1963fd9c8f61420d746e48a176d5c1f0042e3fbcec6ffe31270e"
+  "source_hash": "7f482f74054b67d38bc5bf3b13ced40b34e5c0d3919f29a8651d5859cc0c0dae"
 }
