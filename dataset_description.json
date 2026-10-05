@@ -40,6 +40,6 @@
     ],
     "PublicationYear": 2022,
     "EthicsApprovals": [
-        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+        "Written informed consent was obtained from all participants in accordance with the 1964 Declaration of Helsinki (Batista et al. 2022, Zenodo DOI 10.5281/zenodo.7664068). The source does not name the approving ethics committee in-line."
     ]
 }
