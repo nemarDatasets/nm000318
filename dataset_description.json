@@ -1,45 +1,49 @@
 {
-    "Name": "Batista2022: Motor-imagery EEG during NeuRow VR/haptics BCI training",
-    "BIDSVersion": "1.9.0",
-    "HEDVersion": "8.4.0",
-    "DatasetType": "derivative",
-    "License": "CC-BY-4.0",
-    "Authors": [
-        "Diogo Batista",
-        "Gustavo Caetano",
-        "Mathis Fleury",
-        "Patricia Figueiredo",
-        "Athanasios Vourvopoulos"
-    ],
-    "ReferencesAndLinks": [
-        "https://zenodo.org/records/7664069"
-    ],
-    "Keywords": [
-        "motor imagery",
-        "BCI",
-        "brain-computer interface",
-        "EEG",
-        "virtual reality",
-        "haptics",
-        "neurorehabilitation"
-    ],
-    "DatasetDOI": "doi:10.5281/zenodo.7664068",
-    "GeneratedBy": [
-        {
-            "CodeURL": "https://github.com/NeuroTechX/moabb",
-            "Name": "moabb",
-            "Description": "Mother of All BCI Benchmarks",
-            "Version": "1.8.0dev0"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "DOI": "10.5281/zenodo.7664068",
-            "URL": "https://zenodo.org/records/7664069"
-        }
-    ],
-    "PublicationYear": 2022,
-    "EthicsApprovals": [
-        "Written informed consent was obtained from all participants in accordance with the 1964 Declaration of Helsinki (Batista et al. 2022, Zenodo DOI 10.5281/zenodo.7664068). The source does not name the approving ethics committee in-line."
-    ]
+  "Name": "Batista2022: Motor-imagery EEG during NeuRow VR/haptics BCI training",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Diogo Batista",
+    "Gustavo Caetano",
+    "Mathis Fleury",
+    "Patricia Figueiredo",
+    "Athanasios Vourvopoulos"
+  ],
+  "ReferencesAndLinks": [
+    "https://zenodo.org/records/7664069"
+  ],
+  "Keywords": [
+    "motor imagery",
+    "BCI",
+    "brain-computer interface",
+    "EEG",
+    "virtual reality",
+    "haptics",
+    "neurorehabilitation"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000318",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.8.0dev0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.5281/zenodo.7664068",
+      "URL": "https://zenodo.org/records/7664069"
+    },
+    {
+      "DOI": "doi:10.5281/zenodo.7664068"
+    }
+  ],
+  "PublicationYear": 2022,
+  "EthicsApprovals": [
+    "Written informed consent was obtained from all participants in accordance with the 1964 Declaration of Helsinki (Batista et al. 2022, Zenodo DOI 10.5281/zenodo.7664068). The source does not name the approving ethics committee in-line."
+  ],
+  "Version": "1.0.0"
 }
