@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Batista2022: Motor-imagery EEG during NeuRow VR/haptics BCI training",
-  "description": "EEG recordings from 20 healthy volunteers performing cued left- versus right-hand motor imagery of a bimanual rowing task during brain-computer interface training. Conditions combined Graz and NeuRow virtual-reality feedback with optional haptic and head-mounted-display feedback. Alongside 32-channel EEG, the dataset includes ECG, respiration, and auxiliary channels, and is intended for neurorehabilitation-oriented BCI research.",
-  "methods_description": "Data were recorded in a single lab session per subject using a Brain Products LiveAmp 32 with actiCAP active Ag/AgCl electrodes (32 EEG channels, 500 Hz) in BrainVision format. Each session had up to five imagery runs (MI, MIMO, MIMOHP, MIMOVR, MIMOVRHP), each with cue-locked 5 s left/right-hand motor imagery trials.",
+  "description": "This dataset contains EEG recordings, along with PPG, respiration, ECG and accelerometry, from 20 healthy volunteers performing cued left- versus right-hand motor imagery of a bimanual rowing task. Sessions were part of brain-computer interface training in the NeuRow environment, comparing Graz and virtual-reality conditions with optional haptic and head-mounted-display feedback. The data are a BIDS re-release of the original Zenodo deposit, produced via MOABB, for neurorehabilitation-oriented BCI research.",
+  "methods_description": "EEG was recorded at 500 Hz from 32 active Ag/AgCl electrodes (actiCAP, LiveAmp 32, BrainVision Recorder) plus ECG, respiration and auxiliary channels. Each participant completed one lab session with up to five imagery runs (MI, MIMO, MIMOHP, MIMOVR, MIMOVRHP), with cue-based left/right-hand motor imagery trials and a 5 s imagery/feedback window.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -36,16 +36,22 @@
   },
   "keywords": [
     {
-      "term": "EEG"
-    },
-    {
-      "term": "motor imagery"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
       "term": "Brain-Computer Interfaces",
       "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
       "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    },
+    {
+      "term": "Imagery, Psychotherapy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D019018"
+    },
+    {
+      "term": "motor imagery"
     },
     {
       "term": "virtual reality"
@@ -90,14 +96,18 @@
     "eeg"
   ],
   "sizes": [
-    "1.57 GB (100 files)"
+    "5.48 GB (431 files)"
   ],
   "formats": [
     ".edf",
+    ".eeg",
     ".json",
+    ".md",
     ".tsv",
+    ".vhdr",
+    ".vmrk",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "7f482f74054b67d38bc5bf3b13ced40b34e5c0d3919f29a8651d5859cc0c0dae"
+  "source_hash": "209d374c56b3236324ccb52b7630f1f1e6e1b9536e2183f929060d4993f510bf"
 }
